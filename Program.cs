@@ -19,7 +19,7 @@ class GUI : Form
 
         start.Location = new Point(10, 10); // Main Thread
         stop.Location = new Point(150, 10); // Main Thread
-        output.Location = new Point(100, 50); // Main Thread
+        output.Location = new Point(200, 50); // Main Thread
 
         start.Text = "Start"; // Main Thread
         stop.Text = "Stop"; // Main Thread
